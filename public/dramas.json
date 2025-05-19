@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "title": "Crash Landing on You",
+    "image": "1.jpg",
+    "genre": "romance",
+    "rating": "8.8"
+  },
+  {
+    "id": 2,
+    "title": "Goblin",
+    "image": "2.jpg",
+    "genre": "fantasy",
+    "rating": "8.6"
+  },
+  {
+    "id": 3,
+    "title": "Kingdom",
+    "image": "3.jpg",
+    "genre": "horror",
+    "rating": "8.4"
+  },
+  {
+    "id": 4,
+    "title": "True Beauty",
+    "image": "4.jpg",
+    "genre": "romance",
+    "rating": "7.1"
+  },
+  {
+    "id": 5,
+    "title": "I Am Not a Robot",
+    "image": "5.jpg",
+    "genre": "romance",
+    "rating": "8.2"
+  },
+  {
+    "id": 6,
+    "title": "Lovely Runner",
+    "image": "6.jpg",
+    "genre": "romance",
+    "rating": "8.0"
+  },
+  {
+    "id": 7,
+    "title": "When Life Gives You Tangerines",
+    "image": "7.jpg",
+    "genre": "drama",
+    "rating": "8.3"
+  },
+  {
+    "id": 8,
+    "title": "My Mister",
+    "image": "8.jpg",
+    "genre": "drama",
+    "rating": "9.1"
+  },
+  {
+    "id": 9,
+    "title": "Signal",
+    "image": "9.jpeg",
+    "genre": "thriller",
+    "rating": "9.0"
+  },
+  {
+    "id": 10,
+    "title": "Itaewon Class",
+    "image": "10.jpg",
+    "genre": "action",
+    "rating": "8.2"
+  },
+  {
+  "id": 11,
+  "title": "Vincenzo",
+  "image": "11.jpg",
+  "genre": "action",
+  "rating": "8.6"
+},
+{
+  "id": 12,
+  "title": "Squid Game",
+  "image": "12.jpg",
+  "genre": "thriller",
+  "rating": "8.0"
+}
+]
