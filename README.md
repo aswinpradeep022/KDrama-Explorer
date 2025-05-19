@@ -35,3 +35,15 @@ SarangBom is a creative and minimal web application built with React for browsin
 git clone https://github.com/aswinpradeep022/KDrama-Explorer.git
 npm install
 ```
+
+### 2. Start the application
+
+```bash
+npm start
+```
+
+- Open http://localhost:3000 to view the Website in the browser.
+
+# Feel free to adjust any paths, scripts, or environment details to match your setup!
+
+# Made with ❤️ by the SarangBom team
