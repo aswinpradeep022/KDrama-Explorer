@@ -3,7 +3,8 @@ import "../styles.css";
 
 export default function DramaCard({ drama, isWatchlisted, toggleWatchlist }) {
   const handleError = (e) => {
-    e.target.src = "images/default.jpg";
+    e.target.src =
+      "https://res.cloudinary.com/ddkasgoly/image/upload/v1747676812/default_qhqemc.jpg";
   };
 
   const getRatingClass = (rating) => {
@@ -20,11 +21,7 @@ export default function DramaCard({ drama, isWatchlisted, toggleWatchlist }) {
 
   return (
     <div key={drama.id} className="movie-card">
-      <img
-        src={`images/${drama.image}`}
-        alt={drama.title}
-        onError={handleError}
-      ></img>
+      <img src={drama.image} alt={drama.title} onError={handleError}></img>
       <div className="movie-card-info">
         <h3 className="movie-card-title">{drama.title}</h3>
         <div>

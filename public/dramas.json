@@ -2,84 +2,83 @@
   {
     "id": 1,
     "title": "Crash Landing on You",
-    "image": "1.jpg",
+    "image": "https://res.cloudinary.com/ddkasgoly/image/upload/v1747676810/1_fb9jwg.jpg",
     "genre": "romance",
     "rating": "8.8"
   },
   {
     "id": 2,
     "title": "Goblin",
-    "image": "2.jpg",
+    "image": "https://res.cloudinary.com/ddkasgoly/image/upload/v1747676810/2_uqgn9i.jpg",
     "genre": "fantasy",
     "rating": "8.6"
   },
   {
     "id": 3,
-    "title": "Kingdom",
-    "image": "3.jpg",
+    "title": "Kingdom",    "image": "https://res.cloudinary.com/ddkasgoly/image/upload/v1747676810/3_zzjhz9.jpg",
     "genre": "horror",
     "rating": "8.4"
   },
   {
     "id": 4,
     "title": "True Beauty",
-    "image": "4.jpg",
+    "image": "https://res.cloudinary.com/ddkasgoly/image/upload/v1747676811/4_qhfofj.jpg",
     "genre": "romance",
     "rating": "7.1"
   },
   {
     "id": 5,
     "title": "I Am Not a Robot",
-    "image": "5.jpg",
+    "image": "https://res.cloudinary.com/ddkasgoly/image/upload/v1747676810/5_g6ww5m.jpg",
     "genre": "romance",
     "rating": "8.2"
   },
   {
     "id": 6,
     "title": "Lovely Runner",
-    "image": "6.jpg",
+    "image": "https://res.cloudinary.com/ddkasgoly/image/upload/v1747676811/6_c9jdxx.jpg",
     "genre": "romance",
     "rating": "8.0"
   },
   {
     "id": 7,
     "title": "When Life Gives You Tangerines",
-    "image": "7.jpg",
+    "image": "https://res.cloudinary.com/ddkasgoly/image/upload/v1747676810/7_iasqjs.jpg",
     "genre": "drama",
     "rating": "8.3"
   },
   {
     "id": 8,
     "title": "My Mister",
-    "image": "8.jpg",
+    "image": "https://res.cloudinary.com/ddkasgoly/image/upload/v1747676811/8_dajptp.jpg",
     "genre": "drama",
     "rating": "9.1"
   },
   {
     "id": 9,
     "title": "Signal",
-    "image": "9.jpeg",
+    "image": "https://res.cloudinary.com/ddkasgoly/image/upload/v1747676812/9_ouknmi.jpg",
     "genre": "thriller",
     "rating": "9.0"
   },
   {
     "id": 10,
     "title": "Itaewon Class",
-    "image": "10.jpg",
+    "image": "https://res.cloudinary.com/ddkasgoly/image/upload/v1747676812/10_c9qdlv.jpg",
     "genre": "action",
     "rating": "8.2"
   },
   {
   "id": 11,
   "title": "Vincenzo",
-  "image": "11.jpg",
+  "image": "https://res.cloudinary.com/ddkasgoly/image/upload/v1747676812/11_lmqiif.jpg",
   "genre": "action",
   "rating": "8.6"
 },
 {
   "id": 12,
   "title": "Squid Game",
-  "image": "12.jpg",
+  "image": "https://res.cloudinary.com/ddkasgoly/image/upload/v1747676815/12_fwrpyi.jpg",
   "genre": "thriller",
   "rating": "8.0"
 }
