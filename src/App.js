@@ -6,6 +6,7 @@ import DramasGrid from "./components/DramasGrid";
 import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 import Watchlist from "./components/Watchlist";
 import { useEffect, useState } from "react";
+import { Analytics } from "@vercel/analytics/react";
 
 function App() {
   const [dramas, setsetDramas] = useState([]);
@@ -67,6 +68,7 @@ function App() {
         </Router>
       </div>
       <Footer></Footer>
+      <Analytics />
     </div>
   );
 }
